@@ -1,1 +1,2 @@
 # Image-tagging-and-road-object-detection
+Our primary objective is Image tagging and Object detection – is used to recognize and detect different objects present in an image or video and label them to classify the objects. Some of the most sought-after research areas in computer vision applications are real-time object tracking.Despite great advances in this field, achieving significant precision and efficacy in tracking objects in real time remains a big issue.
