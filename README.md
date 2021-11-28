@@ -1,4 +1,4 @@
-# Image-tagging-and-road-object-detection
+# Object detection and Panoptic Segmentation
 Building a YOLO Model for Object detection in a video
 
 # Problem Statement
