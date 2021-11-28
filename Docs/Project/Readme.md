@@ -1,4 +1,4 @@
-# Folder for project documents and reports for a Data Science Project
+# Folder for project documents and reports
 
 These could be:
 
