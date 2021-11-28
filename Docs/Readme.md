@@ -2,7 +2,7 @@
 
 1. System architecture
 2. Data dictionaries
-Reports related to data understanding, modeling
-Project management and planning docs
-Information obtained from a business owner or client about the project
-Docs and presentations prepared to share information about the project
+3. Reports related to data understanding, modeling
+4. Project management and planning docs
+5. Information obtained from a business owner or client about the project
+6. Docs and presentations prepared to share information about the project
