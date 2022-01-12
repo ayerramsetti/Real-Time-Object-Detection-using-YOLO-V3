@@ -1,0 +1,5 @@
+classes= 10
+train  = /content/drive/MyDrive/AIMLProject3/train.txt
+valid = /content/drive/MyDrive/AIMLProject3/val.txt
+names = /content/drive/MyDrive/AIMLProject3/yolov3/bdd100k.names
+backup = /content/drive/MyDrive/AIMLProject3/yolov3/training
