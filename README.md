@@ -1,4 +1,4 @@
-# Object detection and Panoptic Segmentation
+# Real Time Object Detection using Yolo-V3
 Building a YOLO Model for Object detection in a video
 
 # Problem Statement
