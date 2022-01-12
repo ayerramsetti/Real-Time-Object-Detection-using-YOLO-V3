@@ -1,0 +1,1 @@
+{'traffic sign': 0, 'traffic light': 1, 'car': 2, 'rider': 3, 'motor': 4, 'person': 5, 'bus': 6, 'truck': 7, 'bike': 8, 'train': 9}

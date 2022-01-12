@@ -1,0 +1,10 @@
+traffic light,0
+traffic sign,1
+car,2
+person,3
+bus,4
+truck,5
+rider,6
+bike,7
+motor,8
+train,9
