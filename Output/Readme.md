@@ -20,5 +20,11 @@ Here in this folder you can find output images and video
 	<tr align="center">
 		<td style="width: 100%;"><img src="https://github.com/ayerramsetti/Object-Detection-and-Panoptic-Segmentation/blob/main/Output/output-1.png"></td>
 	</tr>
+	   <tr align="center">
+		<th><strong>YOLOv3 BDD100K Custom Training Chart</strong></th>
+	</tr>
+	  <tr align="center">
+		<td><img src="https://github.com/ayerramsetti/Real-Time-Object-Detection-using-YOLO-V3/blob/main/Output/chart_yolov3-tiny-bdd100k.png"></td>
+	</tr>
 </tbody>
 </table>
