@@ -11,7 +11,7 @@
 </ol>
 <ol start="3">
   <li>To Train the custom detector</li>
-  <p><code>!./darknet detector train //path to data file bdd100k.data//  //path to config file yolov3-tiny-bdd100k.cfg//  //path to darkent layer-darknet53.conv.74// -dont_show -map</code></p>
+  <p><code>!./darknet detector train //path to data file bdd100k.data  //path to config file yolov3-tiny-bdd100k.cfg  //path to darkent layer-darknet53.conv.74 -dont_show -map</code></p>
  Check if there are any unloaded images, remove them and train the detector again using the same path mentioned above
 </ol>
 <ol start="4">
