@@ -9,6 +9,11 @@ Existing driving datasets are limited in terms of visual content, scene diversit
 
 Our project's purpose is to use two ways to recognise and classify traffic items in a video in real time. On the Berkeley DeepDrive dataset, we trained the two state-of-the-art models YOLO and Faster R-CNN to compare their performances and attain a similar mAP to the present state-of-the-art on BDD100K, which is 45.7 using a hybrid incremental net. We'll compare the models' performance on a live video while measuring FPS and mAP in the context of autonomous driving.
 
-# YOLOV3-Tiny VS YOLOV3 Training Graph
+## YOLOV3-Tiny VS YOLOV3 Training Graph
 
 <img src="https://github.com/ayerramsetti/Real-Time-Object-Detection-using-YOLO-V3/blob/main/Output/chart_yolov3-tiny-bdd100k.png" width="350"/> <img src="https://github.com/ayerramsetti/Real-Time-Object-Detection-using-YOLO-V3/blob/main/Output/yolov3_Training_Chart.png" width="425"/> 
+
+## Object Detection
+<tr align="center">
+		<td style="width: 100%;"><img src="https://github.com/ayerramsetti/Object-Detection-and-Panoptic-Segmentation/blob/main/Output/output-1.png"></td>
+</tr>
