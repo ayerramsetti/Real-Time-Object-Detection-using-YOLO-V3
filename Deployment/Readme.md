@@ -3,7 +3,7 @@
 
 Here we have used Tensorflow and flask as main dependencies for Deployement
 
-Visit Latest Deployment file to deploy model in streamlit for both images and vidoes
+Visit Latest Deployment folder to deploy model in streamlit for both images and vidoes
 
 # Implementation Of Project
 
