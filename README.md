@@ -13,10 +13,21 @@ Our project's purpose is to use two ways to recognise and classify traffic items
 
 <img src="https://github.com/ayerramsetti/Real-Time-Object-Detection-using-YOLO-V3/blob/main/Output/chart_yolov3-tiny-bdd100k.png" width="350"/> <img src="https://github.com/ayerramsetti/Real-Time-Object-Detection-using-YOLO-V3/blob/main/Output/yolov3_Training_Chart.png" width="425"/> 
 
-## Object Detection
-<tr align="center">
-		<td style="width: 100%;"><img src="https://github.com/ayerramsetti/Object-Detection-and-Panoptic-Segmentation/blob/main/Output/output-1.png"></td>
-</tr>
+## Output
+<p  align="center">
+  <img width="30%" src="https://github.com/ayerramsetti/Real-Time-Object-Detection-using-YOLO-V3/blob/main/Output/download.png" width="100" />
+  <img width="30%" src="https://github.com/ayerramsetti/Real-Time-Object-Detection-using-YOLO-V3/blob/main/Output/download%20(1).png" width="100" />
+  <img width="30%" src="https://github.com/ayerramsetti/Real-Time-Object-Detection-using-YOLO-V3/blob/main/Output/download%20(2).png" width="100" />
+  <img width="30%" src="https://github.com/ayerramsetti/Real-Time-Object-Detection-using-YOLO-V3/blob/main/Output/download%20(3).png" width="100" />
+  <img width="30%" src="https://github.com/ayerramsetti/Real-Time-Object-Detection-using-YOLO-V3/blob/main/Output/download%20(4).png" width="100" />
+  <img width="30%" src="https://github.com/ayerramsetti/Real-Time-Object-Detection-using-YOLO-V3/blob/main/Output/download%20(5).png" width="100" />
+  <img width="30%" src="https://github.com/ayerramsetti/Real-Time-Object-Detection-using-YOLO-V3/blob/main/Output/download%20(6).png" width="100" />
+  <img width="30%" src="https://github.com/ayerramsetti/Real-Time-Object-Detection-using-YOLO-V3/blob/main/Output/download%20(8).png" width="100" />
+  <img width="30%" src="https://github.com/ayerramsetti/Real-Time-Object-Detection-using-YOLO-V3/blob/main/Output/download%20(9).png" width="100" />
+  <img width="30%" src="https://github.com/ayerramsetti/Real-Time-Object-Detection-using-YOLO-V3/blob/main/Output/download%20(10).png" width="100" />
+  <img width="30%" src="https://github.com/ayerramsetti/Real-Time-Object-Detection-using-YOLO-V3/blob/main/Output/download%20(13).png" width="100" />
+  <img width="30%" src="https://github.com/ayerramsetti/Real-Time-Object-Detection-using-YOLO-V3/blob/main/Output/download%20(12).png" width="100" />
+</p>
 
 ### Deployment
 
